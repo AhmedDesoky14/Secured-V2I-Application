@@ -48,6 +48,7 @@ Second part, **V2I Client - Vehicle** is installed and run on Raspbian, a Linux 
 ---
 
 **NOTE:** cryptography keys need to be configured. 
+**Examples are provided**
 
 ---
 
