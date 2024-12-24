@@ -13,7 +13,7 @@ First part, **V2I Server - Infrastructure** is run on STM32F4x micrcontroller ba
 
 ## Components
 - Cryptography stack files utilizing WolfSSL open-source crypto library functions.
-- ESP8266 hardware module driver.
+- ESP8266 WiFi hardware module driver.
 - V2I Server Manager -> Application module.
 
 ## External Dependencies
