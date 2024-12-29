@@ -43,7 +43,7 @@ Second part, **V2I Client - Vehicle** is installed and run on Raspbian, a Linux 
 
 **All communications and data exchange are handled asynchronously using:**
 - pthread library for Linux on Raspberry Pi
-- Interrupts by NVIC on STM32F4x microcontrollers
+- Interrupts by ARM Cortex M4 NVIC on STM32F4x microcontrollers
 
 ---
 
