@@ -54,8 +54,10 @@ Second part, **V2I Client - Vehicle** is installed and run on Raspbian, a Linux 
 
 **Authors:**
 	Ahmed Desoky,
-  Omar Tolba
+  	Omar Tolba,
+   	Dina Hamed
 	
 **Emails:**
 	ahmed0201150@gmail.com,
-	omartolba004@gmail.com
+	omartolba004@gmail.com,
+ 	dina.hamed001@gmail.com
